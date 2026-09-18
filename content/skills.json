@@ -1,0 +1,18 @@
+[
+  {
+    "category": "Frontend",
+    "items": ["React", "Next.js", "Vue 3", "TypeScript", "JavaScript", "HTML", "CSS", "Tailwind CSS"]
+  },
+  {
+    "category": "Backend",
+    "items": ["Laravel", "Node.js", "MySQL", "Firebase", "REST API"]
+  },
+  {
+    "category": "Tools",
+    "items": ["Git", "GitHub", "Vite", "Figma", "VS Code", "Vercel"]
+  },
+  {
+    "category": "Interests",
+    "items": ["UI/UX Design", "Responsive Design", "Web Performance", "Clean Code"]
+  }
+]

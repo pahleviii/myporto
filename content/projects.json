@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "layanan-pengaduan-masyarakat",
+    "title": "Layanan Pengaduan Masyarakat",
+    "description": "Sistem pengaduan masyarakat berbasis web yang memungkinkan warga menyampaikan aduan secara online dan memantau status penanganannya, lengkap dengan dashboard admin untuk mengelola tindak lanjut.",
+    "techStack": ["Laravel", "Vue 3", "Vite", "MySQL", "Tailwind CSS"],
+    "repoUrl": "https://github.com/pahleviii/layanan-pengaduan-masyarakat",
+    "demoUrl": null,
+    "thumbnail": "/images/projects/layanan-pengaduan-masyarakat.png",
+    "featured": true
+  },
+  {
+    "slug": "website-desa-banjarsari",
+    "title": "Website Desa Banjarsari",
+    "description": "Website profil resmi Desa Banjarsari yang menampilkan informasi desa, layanan publik, dan berita terkini bagi warga, dibangun dengan pendekatan sederhana dan ringan.",
+    "techStack": ["HTML", "CSS", "JavaScript"],
+    "repoUrl": "https://github.com/pahleviii/website-desa-banjarsari",
+    "demoUrl": null,
+    "thumbnail": "/images/projects/website-desa-banjarsari.png",
+    "featured": false
+  },
+  {
+    "slug": "realvcoffee",
+    "title": "RealV Coffee",
+    "description": "Website untuk brand kopi RealV Coffee, dibangun dengan Next.js dan TypeScript untuk performa cepat dan pengalaman browsing yang mulus.",
+    "techStack": ["Next.js", "TypeScript"],
+    "repoUrl": "https://github.com/pahleviii/realvcoffee",
+    "demoUrl": null,
+    "thumbnail": "/images/projects/realvcoffee.png",
+    "featured": false
+  }
+]
