@@ -4,12 +4,12 @@ A minimalist personal portfolio website built with Next.js and Tailwind CSS.
 
 ## Features
 
-- 🎨 **Minimalist Design**: Clean white-gray color scheme with accent colors
-- 📱 **Fully Responsive**: Mobile-first design with Tailwind CSS
-- 🚀 **Fast Performance**: Optimized with Next.js Image and lazy loading
-- 📊 **Data-Driven**: Projects loaded from JSON files (easy to update)
-- 🔍 **SEO Optimized**: Proper metadata and semantic HTML
-- ♿ **Accessible**: WCAG compliant color contrast and semantic markup
+- **Minimalist Design**: Clean white-gray color scheme with accent colors
+- **Fully Responsive**: Mobile-first design with Tailwind CSS
+- **Fast Performance**: Optimized with Next.js Image and lazy loading
+- **Data-Driven**: Projects loaded from JSON files (easy to update)
+- **SEO Optimized**: Proper metadata and semantic HTML
+- **Accessible**: WCAG compliant color contrast and semantic markup
 
 ## Tech Stack
 
